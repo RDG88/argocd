@@ -1,0 +1,2 @@
+# argocd
+Talos Cluster
